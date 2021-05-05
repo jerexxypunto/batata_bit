@@ -1,0 +1,13 @@
+.girl-section{
+    background-image: url(../assets/img/bitcoinbaby2x.jpg);
+}
+.article-contain{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 90rem;
+    margin:0 auto;
+}
+.plan-section__product-slider{
+    width: 780px;
+    margin:0 auto;
+}
